@@ -1,0 +1,4 @@
+name: ctfs
+type: duckdb
+options:
+  filename: ctfs.duckdb
