@@ -28,23 +28,25 @@ When viewing any of the dashboards below, note that certain data points may be m
 
 ## List of Dashboards
 
-<Details title="Agricultural Supply and Demand">
-    <LinkButton url="/food_production/ag_supply_demand">Go to dashboard</LinkButton>
-    <li>Consumption vs. Production</li>
-    <li>Agricultural Sales by Product Type</li>
-    <li>Number of Farm Operations and Farm Acreage</li>
-    <li>Crop and Livestock Production</li>
-    <li>Farm Incom</li>
-</Details>
+<Accordion>
+    <AccordionItem title="Agricultural Supply and Demand">
+        <LinkButton url="/food_production/ag_supply_demand">Go to dashboard</LinkButton>
+        <li>Consumption vs. Production</li>
+        <li>Agricultural Sales by Product Type</li>
+        <li>Number of Farm Operations and Farm Acreage</li>
+        <li>Crop and Livestock Production</li>
+        <li>Farm Incom</li>
+    </AccordionItem>
 
-<Details title="Farmer and Rancher Characteristics and Farm Labor">
-    <LinkButton url="/food_produciton/farmer">Go to dashboard</LinkButton>
-    <li>Race and Gender of Producer</li>
-    <li>Age and Experience of Producers</li>
-    <li>Producers with Military Service</li>
-    <li>Farm Labor</li>
-</Details>
+    <AccordionItem title="Farmer and Rancher Characteristics and Farm Labor">
+        <LinkButton url="/food_produciton/farmer">Go to dashboard</LinkButton>
+        <li>Race and Gender of Producer</li>
+        <li>Age and Experience of Producers</li>
+        <li>Producers with Military Service</li>
+        <li>Farm Labor</li>
+    </AccordionItem>
 
-<Details title="Community Food Production">
-    <LinkButton url="/food_produciton/community">Go to dashboard</LinkButton>
-</Details>
+    <AccordionItem title="Community Food Production">
+        <LinkButton url="/food_produciton/community">Go to dashboard</LinkButton>
+    </AccordionItem>
+</Accordion>

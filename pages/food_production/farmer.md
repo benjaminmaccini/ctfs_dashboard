@@ -2,4 +2,4 @@
 title: Farmer and Rancher Characteristics and Farm Labor
 ---
 
-Asdf
+This page is just a stub
